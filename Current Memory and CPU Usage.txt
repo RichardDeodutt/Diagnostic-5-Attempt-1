@@ -1,0 +1,97 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  1.2 101924 12708 ?        Ss   Aug13   0:09 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    Aug13   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   Aug13   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   Aug13   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   Aug13   0:00 [netns]
+root           7  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kworker/0:0H-events_highpri]
+root          10  0.0  0.0      0     0 ?        I<   Aug13   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        S    Aug13   0:00 [rcu_tasks_rude_]
+root          12  0.0  0.0      0     0 ?        S    Aug13   0:00 [rcu_tasks_trace]
+root          13  0.0  0.0      0     0 ?        S    Aug13   0:00 [ksoftirqd/0]
+root          14  0.0  0.0      0     0 ?        I    Aug13   0:02 [rcu_sched]
+root          15  0.0  0.0      0     0 ?        S    Aug13   0:04 [migration/0]
+root          16  0.0  0.0      0     0 ?        S    Aug13   0:00 [idle_inject/0]
+root          17  0.0  0.0      0     0 ?        S    Aug13   0:00 [cpuhp/0]
+root          18  0.0  0.0      0     0 ?        S    Aug13   0:00 [kdevtmpfs]
+root          19  0.0  0.0      0     0 ?        I<   Aug13   0:00 [inet_frag_wq]
+root          20  0.0  0.0      0     0 ?        S    Aug13   0:00 [kauditd]
+root          21  0.0  0.0      0     0 ?        S    Aug13   0:00 [khungtaskd]
+root          22  0.0  0.0      0     0 ?        S    Aug13   0:00 [oom_reaper]
+root          23  0.0  0.0      0     0 ?        I<   Aug13   0:00 [writeback]
+root          24  0.0  0.0      0     0 ?        S    Aug13   0:20 [kcompactd0]
+root          25  0.0  0.0      0     0 ?        SN   Aug13   0:00 [ksmd]
+root          26  0.0  0.0      0     0 ?        SN   Aug13   0:00 [khugepaged]
+root          72  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kintegrityd]
+root          73  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kblockd]
+root          74  0.0  0.0      0     0 ?        I<   Aug13   0:00 [blkcg_punt_bio]
+root          75  0.0  0.0      0     0 ?        S    Aug13   0:00 [xen-balloon]
+root          76  0.0  0.0      0     0 ?        I<   Aug13   0:00 [tpm_dev_wq]
+root          77  0.0  0.0      0     0 ?        I<   Aug13   0:00 [ata_sff]
+root          78  0.0  0.0      0     0 ?        I<   Aug13   0:00 [md]
+root          79  0.0  0.0      0     0 ?        I<   Aug13   0:00 [edac-poller]
+root          80  0.0  0.0      0     0 ?        I<   Aug13   0:00 [devfreq_wq]
+root          81  0.0  0.0      0     0 ?        S    Aug13   0:00 [watchdogd]
+root          83  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kworker/0:1H-kblockd]
+root          86  0.0  0.0      0     0 ?        S    Aug13   0:00 [kswapd0]
+root          87  0.0  0.0      0     0 ?        S    Aug13   0:00 [ecryptfs-kthrea]
+root          89  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kthrotld]
+root          90  0.0  0.0      0     0 ?        I<   Aug13   0:00 [acpi_thermal_pm]
+root          91  0.0  0.0      0     0 ?        S    Aug13   0:00 [xenbus]
+root          92  0.0  0.0      0     0 ?        S    Aug13   0:00 [xenwatch]
+root          93  0.0  0.0      0     0 ?        I<   Aug13   0:00 [nvme-wq]
+root          94  0.0  0.0      0     0 ?        I<   Aug13   0:00 [nvme-reset-wq]
+root          95  0.0  0.0      0     0 ?        I<   Aug13   0:00 [nvme-delete-wq]
+root          96  0.0  0.0      0     0 ?        S    Aug13   0:00 [scsi_eh_0]
+root          97  0.0  0.0      0     0 ?        I<   Aug13   0:00 [scsi_tmf_0]
+root          98  0.0  0.0      0     0 ?        S    Aug13   0:00 [scsi_eh_1]
+root          99  0.0  0.0      0     0 ?        I<   Aug13   0:00 [scsi_tmf_1]
+root         101  0.0  0.0      0     0 ?        I<   Aug13   0:00 [vfio-irqfd-clea]
+root         102  0.0  0.0      0     0 ?        I<   Aug13   0:00 [mld]
+root         103  0.0  0.0      0     0 ?        I<   Aug13   0:00 [ipv6_addrconf]
+root         112  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kstrp]
+root         115  0.0  0.0      0     0 ?        I<   Aug13   0:00 [zswap-shrink]
+root         116  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kworker/u31:0]
+root         121  0.0  0.0      0     0 ?        I<   Aug13   0:00 [charger_manager]
+root         122  0.0  0.0      0     0 ?        S    Aug13   0:00 [jbd2/xvda1-8]
+root         123  0.0  0.0      0     0 ?        I<   Aug13   0:00 [ext4-rsv-conver]
+root         163  0.0  3.2  64240 31908 ?        S<s  Aug13   0:02 /lib/systemd/systemd-journald
+root         187  0.0  0.0      0     0 ?        I<   Aug13   0:00 [ipmi-msghandler]
+root         201  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kaluad]
+root         205  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kmpath_rdacd]
+root         206  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kmpathd]
+root         207  0.0  0.0      0     0 ?        I<   Aug13   0:00 [kmpath_handlerd]
+root         208  0.0  2.7 289316 27364 ?        SLsl Aug13   0:41 /sbin/multipathd -d -s
+root         211  0.0  0.6  11876  6608 ?        Ss   Aug13   0:00 /lib/systemd/systemd-udevd
+root         229  0.0  0.0      0     0 ?        I<   Aug13   0:00 [cryptd]
+systemd+     404  0.0  0.8  16116  7936 ?        Ss   Aug13   0:03 /lib/systemd/systemd-networkd
+systemd+     406  0.0  1.2  25396 12544 ?        Ss   Aug13   0:00 /lib/systemd/systemd-resolved
+root         439  0.0  0.1   2812  1192 ?        Ss   Aug13   0:00 /usr/sbin/acpid
+root         444  0.0  0.2   7284  2716 ?        Ss   Aug13   0:00 /usr/sbin/cron -f -P
+message+     445  0.0  0.5   8964  5176 ?        Ss   Aug13   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         453  0.0  1.8  33124 18060 ?        Ss   Aug13   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         454  0.0  0.8 236128  8476 ?        Ssl  Aug13   0:00 /usr/libexec/polkitd --no-debug
+syslog       455  0.0  0.5 222400  5260 ?        Ssl  Aug13   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         456  0.0  1.1 1232944 11588 ?       Ssl  Aug13   0:20 /snap/amazon-ssm-agent/5656/amazon-ssm-agent
+root         460  0.0  2.6 1318400 26184 ?       Ssl  Aug13   0:17 /usr/lib/snapd/snapd
+root         462  0.0  0.7  15388  7636 ?        Ss   Aug13   0:00 /lib/systemd/systemd-logind
+root         464  0.0  1.2 392504 12580 ?        Ssl  Aug13   0:00 /usr/libexec/udisks2/udisksd
+root         487  0.0  0.1   6216  1084 ttyS0    Ss+  Aug13   0:00 /sbin/agetty -o -p -- \u --keep-baud 115200,57600,38400,9600 ttyS0 vt220
+root         489  0.0  1.1 316916 11488 ?        Ssl  Aug13   0:00 /usr/sbin/ModemManager
+root         493  0.0  0.1   6172  1096 tty1     Ss+  Aug13   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+_chrony      544  0.0  0.3  18888  3484 ?        S    Aug13   0:10 /usr/sbin/chronyd -F 1
+_chrony      551  0.0  0.0  10560   532 ?        S    Aug13   0:00 /usr/sbin/chronyd -F 1
+root         594  0.0  1.9 110092 19720 ?        Ssl  Aug13   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         722  0.0  0.8  15420  8756 ?        Ss   Aug13   0:00 sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups
+root         756  0.0  2.6 1244280 26492 ?       Sl   Aug13   0:14 /snap/amazon-ssm-agent/5656/ssm-agent-worker
+root       10679  0.0  1.8 295940 17824 ?        Ssl  Aug14   0:03 /usr/libexec/packagekitd
+root       11892  0.0  0.0      0     0 ?        I    Aug15   0:00 [kworker/0:1-cgroup_destroy]
+root       38398  0.0  0.0      0     0 ?        I    13:13   0:00 [kworker/u30:1-events_power_efficient]
+root       38492  0.0  1.1  16916 10944 ?        Ss   14:21   0:00 sshd: richard [priv]
+richard    38495  0.0  0.9  16892  9288 ?        Ss   14:21   0:00 /lib/systemd/systemd --user
+richard    38497  0.0  0.4 104836  4876 ?        S    14:21   0:00 (sd-pam)
+richard    38582  0.0  0.8  17212  8016 ?        S    14:21   0:00 sshd: richard@pts/0
+richard    38588  0.0  0.5   9280  5496 pts/0    Ss   14:21   0:00 -bash
+root       39338  0.0  0.0      0     0 ?        I    16:17   0:00 [kworker/u30:0-events_unbound]
+root       39377  0.0  0.0      0     0 ?        I    16:37   0:00 [kworker/0:0-events]
+richard    39703  0.0  0.3  10728  3532 pts/0    R+   17:10   0:00 ps -aux
